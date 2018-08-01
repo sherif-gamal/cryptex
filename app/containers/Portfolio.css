@@ -1,0 +1,14 @@
+.box {
+  background: floralwhite;
+  position: relative;
+  border: papayawhip 2px solid;
+  box-shadow: 0px 5px 5px palevioletred;
+  padding: 5px;
+  margin: 10px;
+}
+
+.title {
+  font-family: monospace;
+  font-size: small;
+  color: blue;
+}
